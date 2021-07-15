@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRolling</string>
+    <string name="roll">Roll</string>
+    <string name="_2">2</string>
+    <string name="dice_with_6_sides">Dice with 6 sides :</string>
+    <string name="dice_with_20_sides">Dice with 20 sides :</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
