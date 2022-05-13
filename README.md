@@ -1,1 +1,1 @@
-# tSting
+# Dice Rolling App for Android Studio
